@@ -1,0 +1,30 @@
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\BasicAppTest.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\BasicAppTest.pdb
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\CB Basic App GitHub.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\CB Basic App GitHub.pdb
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\CB Basic App GitHub.dll.config
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.AssemblyReference.cache
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.CoreCompileInputs.cache
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.csproj.CopyComplete
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.dll
+C:\Users\mkingha\source\repos\CB Basic App GitHub\BasicAppTest\obj\Debug\BasicAppTest.pdb
